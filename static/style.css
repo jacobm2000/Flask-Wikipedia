@@ -1,7 +1,9 @@
 h1 {
 text-align: center;
 margin-top: 2rem;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family:'Times New Roman', Times, serif;
+font-weight: bold;
+text-shadow: rgb(0, 0, 0) 1px 0 2px;
 }
 p{
  
@@ -10,10 +12,12 @@ p{
     
 }
 #out{
+   
+    background-color: rgba(251, 255, 4, 0.151);
     margin: 5rem;
-    margin-right: 30rem;
-    margin-left: 30rem;
-    font-size: x-large;
+    margin-right: 25%;
+    margin-left: 25%;
+    font-size: 1.75rem;
 }
 
 #getP
@@ -26,6 +30,6 @@ font-size: x-large;
 #input{
     box-sizing: border-box;
     margin-top: 5rem;
-    box-shadow: 2px 4px 4px black;
+    box-shadow: 1px 1px 5px black;
    
 }
