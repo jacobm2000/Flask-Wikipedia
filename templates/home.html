@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+<link rel="stylesheet" href="{{ url_for('static', filename='/static/style.css') }}">
+{% block title %}
+Home Page
+{% endblock %}
+ {% block content %}
+ <link rel = "stylesheet" type="text/css" href="/static/style.css">
+<form action="#" method="post" class="form">
+    
+    <p><input type= "text" id="input" name="t" placeholder="Term"/></p>
+    <p><input type ="submit"id="getP" value="Get Summary"/></p>
+</form>
+
+<p id="out">{{summary}}</p>
+ 
+ {% endblock %}
+
+
+{$ endblock %}

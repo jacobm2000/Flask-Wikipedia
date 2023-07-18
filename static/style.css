@@ -1,0 +1,31 @@
+h1 {
+text-align: center;
+margin-top: 2rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+ 
+
+    text-align: center;
+    
+}
+#out{
+    margin: 5rem;
+    margin-right: 30rem;
+    margin-left: 30rem;
+    font-size: x-large;
+}
+
+#getP
+{
+display: inline-block;
+font-size: x-large;
+}
+
+
+#input{
+    box-sizing: border-box;
+    margin-top: 5rem;
+    box-shadow: 2px 4px 4px black;
+   
+}
