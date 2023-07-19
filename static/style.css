@@ -1,15 +1,20 @@
 h1 {
 text-align: center;
-margin-top: 2rem;
+margin-top: 1rem;
 font-family:'Times New Roman', Times, serif;
 font-weight: bold;
 text-shadow: rgb(0, 0, 0) 1px 0 2px;
 }
 p{
- 
-
     text-align: center;
     
+}
+span{
+    margin-right: 1rem;
+  
+}
+.btn{
+    margin-top:2rem
 }
 #out{
    
