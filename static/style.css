@@ -16,13 +16,16 @@ span{
 .btn{
     margin-top:2rem
 }
+input{
+    font-size: 1rem;
+}
 #out{
    
     background-color: rgba(251, 255, 4, 0.151);
     margin: 5rem;
     margin-right: 25%;
     margin-left: 25%;
-    font-size: 1.75rem;
+    font-size: 2rem;
 }
 
 #getP
